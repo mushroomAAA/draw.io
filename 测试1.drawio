@@ -187,7 +187,7 @@
         <mxCell id="J88-ZStobgBlJwA_pP0x-69" value="+ActualRole" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="J88-ZStobgBlJwA_pP0x-68" vertex="1">
           <mxGeometry y="44.8" width="180" height="25.2" as="geometry" />
         </mxCell>
-        <mxCell id="MwXPO-5lnD02g6y1rOQa-7" value="+Kill" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="J88-ZStobgBlJwA_pP0x-68" vertex="1">
+        <mxCell id="MwXPO-5lnD02g6y1rOQa-7" value="+Kills" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="J88-ZStobgBlJwA_pP0x-68" vertex="1">
           <mxGeometry y="70" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MwXPO-5lnD02g6y1rOQa-8" value="+Deaths" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="J88-ZStobgBlJwA_pP0x-68" vertex="1">
