@@ -297,7 +297,7 @@
           <mxGeometry x="-258" y="433" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MwXPO-5lnD02g6y1rOQa-87" value="Rank" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=32;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="380" y="350" width="173" height="157.67000000000002" as="geometry" />
+          <mxGeometry x="380" y="350" width="173" height="189.67000000000002" as="geometry" />
         </mxCell>
         <mxCell id="MwXPO-5lnD02g6y1rOQa-88" value="+Tier" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="MwXPO-5lnD02g6y1rOQa-87" vertex="1">
           <mxGeometry y="32" width="173" height="30" as="geometry" />
@@ -311,8 +311,11 @@
         <mxCell id="MwXPO-5lnD02g6y1rOQa-91" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="MwXPO-5lnD02g6y1rOQa-87" vertex="1">
           <mxGeometry y="122" width="173" height="3.67" as="geometry" />
         </mxCell>
-        <mxCell id="MwXPO-5lnD02g6y1rOQa-94" value="+PlayerID(FK)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="MwXPO-5lnD02g6y1rOQa-87" vertex="1">
+        <mxCell id="d2m-j659Ny9G2yZf6mHe-81" value="+RankID(PK)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="MwXPO-5lnD02g6y1rOQa-87">
           <mxGeometry y="125.67" width="173" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="MwXPO-5lnD02g6y1rOQa-94" value="+PlayerID(FK)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="MwXPO-5lnD02g6y1rOQa-87" vertex="1">
+          <mxGeometry y="157.67000000000002" width="173" height="32" as="geometry" />
         </mxCell>
         <mxCell id="w8iiwixc-2jHV2MGr-n2-1" value="Skin" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="-335" y="1241" width="126" height="167" as="geometry" />
