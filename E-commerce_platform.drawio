@@ -1,9 +1,99 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 SLBrowser/9.0.6.8151 SLBChan/109 SLBVPV/64-bit" version="28.2.7">
   <diagram name="第 1 页" id="zJbtlpC93LKQKTuhfzbS">
-    <mxGraphModel>
+    <mxGraphModel dx="2324" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_LePMz_nAcB0h11uPApZ-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="570" y="320" width="470" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_LePMz_nAcB0h11uPApZ-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="570" y="40" width="470" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_LePMz_nAcB0h11uPApZ-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="885" width="550" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_LePMz_nAcB0h11uPApZ-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="600" y="885" width="450" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_LePMz_nAcB0h11uPApZ-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="885" width="530" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_LePMz_nAcB0h11uPApZ-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="604" width="1670" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_LePMz_nAcB0h11uPApZ-1" value="Payment Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="649" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_LePMz_nAcB0h11uPApZ-2" value="Shopping Cart Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="649" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_LePMz_nAcB0h11uPApZ-3" value="Search Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="649" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_LePMz_nAcB0h11uPApZ-4" value="Product Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="649" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_LePMz_nAcB0h11uPApZ-5" value="库存服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="649" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_LePMz_nAcB0h11uPApZ-7" value="User Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="649" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_LePMz_nAcB0h11uPApZ-8" value="Order Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="649" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_LePMz_nAcB0h11uPApZ-9" value="Coupon Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="649" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_LePMz_nAcB0h11uPApZ-10" value="第三方支付网关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="935" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_LePMz_nAcB0h11uPApZ-12" value="风控服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="935" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_LePMz_nAcB0h11uPApZ-13" value="物流跟踪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="935" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_LePMz_nAcB0h11uPApZ-14" value="库存管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="915" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_LePMz_nAcB0h11uPApZ-15" value="商品系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="915" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_LePMz_nAcB0h11uPApZ-16" value="订单系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="975" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_LePMz_nAcB0h11uPApZ-17" value="优惠卷系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="975" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_LePMz_nAcB0h11uPApZ-18" value="主数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="945" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_LePMz_nAcB0h11uPApZ-19" value="缓存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="945" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_LePMz_nAcB0h11uPApZ-20" value="搜索引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="945" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_LePMz_nAcB0h11uPApZ-26" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;BLL&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;textShadow=0;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="614" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_LePMz_nAcB0h11uPApZ-27" value="Web Browser" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_LePMz_nAcB0h11uPApZ-28" value="Mobile APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_LePMz_nAcB0h11uPApZ-29" value="API Gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="375" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_LePMz_nAcB0h11uPApZ-31" value="Web Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="375" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_LePMz_nAcB0h11uPApZ-34" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;DAL&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;textShadow=0;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry y="905" width="80" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
