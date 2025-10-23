@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 SLBrowser/9.0.6.8151 SLBChan/109 SLBVPV/64-bit" version="28.2.7" pages="2">
   <diagram name="第 1 页" id="47mwr4FIBFNXmbGjkMcd">
-    <mxGraphModel dx="634" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="634" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,6 +99,21 @@
         <mxCell id="y3LFcYZT-C3Oiw_jnrEs-5" value="Product List/Details" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="y3LFcYZT-C3Oiw_jnrEs-4">
           <mxGeometry x="-0.0098" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3LFcYZT-C3Oiw_jnrEs-6" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="170" y="20" as="sourcePoint" />
+            <mxPoint x="430" y="30" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="-10" />
+              <mxPoint x="390" y="-10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3LFcYZT-C3Oiw_jnrEs-8" value="Add to Cart/Submit Order Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="y3LFcYZT-C3Oiw_jnrEs-6">
+          <mxGeometry x="0.0811" y="3" relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
